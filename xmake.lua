@@ -12,6 +12,7 @@ target("MiniZ")
 		
 	end
 	
+	
 	if (is_os("android")) then
 		set_kind("shared")		
 	end
